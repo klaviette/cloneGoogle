@@ -1,0 +1,43 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    height: 50px;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 12px;
+}
+.footbot{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footmid{
+    display: flex;
+    flex-direction: row;
+    width:250px;
+    justify-content: space-around;
+}
+
+.botright{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-around;
+    
+}
+
+.botleft{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-around;
+}
+
+.leaf{
+    height:16px;
+    width:16px;
+}
